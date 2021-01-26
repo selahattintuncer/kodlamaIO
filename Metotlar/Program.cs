@@ -26,7 +26,7 @@ namespace Metotlar
                 Console.WriteLine("-------------------");
             }
 
-            Console.WriteLine("------------Metodler---------------");
+            Console.WriteLine("------------Metodler-----------------");
 
             SepetManager sepetManager = new SepetManager();
             
