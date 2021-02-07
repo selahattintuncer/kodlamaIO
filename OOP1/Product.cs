@@ -4,7 +4,9 @@ using System.Text;
 
 namespace OOP1
 {
-    class Product
+    class Product       // Özelliklerin yazılı olduğu class dır. 
+                        // Entity diye adlandırılan varlıkların özellikleri bu class a yazılır. 
+                        // Bu class da operasyonlar bulunmaz.
     {
         public int Id { get; set; }
         public int CategoryId { get; set; }  //ürün katagorisi
