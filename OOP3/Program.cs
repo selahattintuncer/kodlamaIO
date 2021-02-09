@@ -13,7 +13,7 @@ namespace OOP3
             //tasitKrediManager.Hesapla();
             //KonutKrediManager konutKrediManager = new KonutKrediManager();
             //konutKrediManager.Hesapla();
-
+            //***
             //****************************************************************
             
             // Yukarıdaki komut satırları aşağıdaki gibi yazılınca da çalışır. Çünkü Interface class lar kendilerini implement eden  classların referanslarını tutabilirler. 
